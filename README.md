@@ -74,7 +74,7 @@ The following steps were used to build the recommendation system:
 Clone the repository:
 
 https://github.com/Tehmina521/movie-recommendation-system-streamlit
-
+cd task2
 Install dependencies:
 pip install -r requirements.txt
 
@@ -109,6 +109,15 @@ After running the command, the application will open in your browser.
 | Finding Nemo | 0.82 |
 
 ---
+
+## Screenshot
+<img width="1366" height="687" alt="Screenshot (935)" src="https://github.com/user-attachments/assets/950ab3c2-9e7d-43f3-9dff-75a3be4da455" />
+
+
+<img width="1366" height="691" alt="Screenshot (936)" src="https://github.com/user-attachments/assets/e8295dd4-9fba-4c1c-89fc-b9c6b00ddc15" />
+
+---
+
 
 ## ✅ Conclusion
 This project demonstrates how a **content-based recommendation system** can be built using **TF-IDF vectorization** and **cosine similarity**.  
