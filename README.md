@@ -56,7 +56,7 @@ The dataset contains movie information including:
 
 The following steps were used to build the recommendation system:
 
-1. Load the ** dataset**.
+1. Load the **movies.csv dataset**.
 2. Perform **data exploration and cleaning**.
 3. Convert movie genres into **TF-IDF feature vectors**.
 4. Compute **cosine similarity matrix** to measure similarity between movies.
